@@ -48,3 +48,5 @@ write get commit -m "first commit"
 step 11 :
 
 git push
+
+If i change anything in my file i have to use 3 command again add,commit,push
