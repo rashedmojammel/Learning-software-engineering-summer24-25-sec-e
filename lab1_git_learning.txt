@@ -22,3 +22,29 @@ step 6 :
 Again the run the Gitbash in same folder
 write command 
 get status
+
+step 7 :
+
+git add file_path
+
+step 8 :
+write get commit -m "first commit"
+
+it will show please tell me who you are this type of interface 
+and suggest two command 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+step 9 :
+Run these command separately 
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+step 10 :
+
+write get commit -m "first commit"
+
+step 11 :
+
+git push
