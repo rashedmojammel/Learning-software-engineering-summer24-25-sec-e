@@ -1,0 +1,24 @@
+step 1 :
+Created a Group of 4 members
+
+Step 2 : Created a repository 
+https://github.com/rashedmojammel/Learning-software-engineering-summer24-25-sec-e.git
+
+step 3 :
+
+Created a folder in my Desktop
+
+step 4 :
+Downloaded the git bash
+
+step 5 :
+Run the git bash
+Write command 
+get clone file_path
+after running new folder will be created in the folder i have created
+
+step 6 :
+
+Again the run the Gitbash in same folder
+write command 
+get status
